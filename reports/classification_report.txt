@@ -1,0 +1,18 @@
+                      precision    recall  f1-score   support
+
+        account_help       0.83      0.83      0.83         6
+        cancel_order       1.00      0.83      0.91         6
+     discount_coupon       0.86      1.00      0.92         6
+             goodbye       0.86      1.00      0.92         6
+            greeting       1.00      0.83      0.91         6
+         human_agent       0.83      0.83      0.83         6
+        order_status       0.75      0.50      0.60         6
+     payment_methods       1.00      1.00      1.00         7
+product_availability       1.00      0.83      0.91         6
+       return_refund       0.86      0.86      0.86         7
+       shipping_info       0.56      0.83      0.67         6
+              thanks       1.00      1.00      1.00         6
+
+            accuracy                           0.86        74
+           macro avg       0.88      0.86      0.86        74
+        weighted avg       0.88      0.86      0.87        74

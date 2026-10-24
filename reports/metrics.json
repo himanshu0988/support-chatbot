@@ -1,0 +1,7 @@
+{
+  "holdout_accuracy": 0.8649,
+  "cv_mean": 0.8441,
+  "cv_std": 0.0706,
+  "n_samples": 295,
+  "n_intents": 12
+}
